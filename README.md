@@ -25,3 +25,14 @@ A total of 5 high-priority test cases have been documented across the following 
 ### 2. Checkout & Payment System (`checkout-module.md`)
 * **EB_CO_001**: Successful purchase using a saved, valid payment method (Positive).
 * **EB_CO_002**: Unsuccessful purchase transaction due to insufficient funds (Negative).
+
+## 🐛 Bug Reporting & Issue Tracking
+
+To demonstrate my defect reporting skills and technical documentation criteria, I manage and track system bugs directly through GitHub Issues as my primary test management tool. 
+
+Below is a live link to a high-severity bug report created for this portfolio:
+
+* **[Checkout Module]** - [Bug #1: Application freezes when clicking 'Place Order' with an expired session token](https://github.com/liliaqvq/ebay-manual-testing-portfolio/issues/1)
+  * **Key Skills Demonstrated:** Cross-browser verification, browser console log analysis, business impact evaluation (core conversion funnel validation), severity and priority assessment.
+
+
