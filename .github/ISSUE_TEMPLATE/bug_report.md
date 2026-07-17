@@ -1,38 +1,35 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: "🐛 Bug Report"
+about: Create a detailed report to document and track a system defect.
+title: "[MODULE] - Short, descriptive title of the bug"
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 📝 Description
+Provide a clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+## 💻 Environment
+- **OS:** [e.g., Windows 11, macOS Sonoma, iOS 17]
+- **Browser:** [e.g., Google Chrome, Safari]
+- **Environment:** QA / Sandbox
+
+## 👣 Steps to Reproduce
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. See error
 
-**Expected behavior**
+## 🎯 Expected Result
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## ❌ Actual Result
+A clear and concise description of what actually happens (include error codes if applicable).
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 📊 Severity & Priority
+- **Severity:** [Blocker / High / Medium / Low]
+- **Priority:** [High / Medium / Low]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## 📎 Attachments
+- [Add screenshots, GIFs, or logs here if available]
